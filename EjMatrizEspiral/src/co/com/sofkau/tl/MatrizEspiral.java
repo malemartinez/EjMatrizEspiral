@@ -15,13 +15,15 @@ public class MatrizEspiral {
 
     public static void main(String[] args) {
         int[][] matriz = fun_crar();
-        fun_llenar_fila_izq_der(matriz, 1, 0);
-        fun_llenar_col_arriba_abajo(matriz, 4, 3);
-        fun_llenar_fila_der_izq(matriz, 7, 3);
-        fun_llenar_col_abajo_arriba(matriz, 10, 0);
-        fun_llenar_fila_izq_der(matriz,12,1);
-        fun_llenar_col_arriba_abajo(matriz, 14, 2);
-        fun_llenar_fila_der_izq(matriz,15,2);
+        //Llenar_Iz_Der(matriz,1,2);
+        Llenar_arr_aba(matriz, 5, 2);
+        //fun_llenar_fila_izq_der(matriz, 1, 0);
+       // fun_llenar_col_arriba_abajo(matriz, 5, 4);
+       // fun_llenar_fila_der_izq(matriz, 8, 3);
+       // fun_llenar_col_abajo_arriba(matriz, 12, 0);
+       // fun_llenar_fila_izq_der(matriz,14,1);
+       // fun_llenar_col_arriba_abajo(matriz, 17, 3);
+       // fun_llenar_fila_der_izq(matriz,18,2);
         fun_imprimir(matriz);
 
 
@@ -52,7 +54,7 @@ public class MatrizEspiral {
 
     public static void fun_llenar_fila_izq_der(int matriz[][], int num_inicial, int num_fila) {
         for (int fila = 0; fila <= num_fila; fila++) {
-            for (int columna = 0; columna < matriz.length; columna++) {
+            for (int columna = 0; columna <= matriz.length - 1; columna++) {
                 if (matriz[num_fila][columna] == 0) {
                     matriz[num_fila][columna] = num_inicial;
                 }
@@ -95,7 +97,17 @@ public class MatrizEspiral {
             num_inicial++;
         }
     }
-
+    public static void Llenar_Iz_Der(int matriz[][], int num_inicial, int num_fila) {
+        for (int i = 0; i < matriz[num_fila].length; i++) {
+            matriz[num_fila][i]=num_inicial;
+            num_inicial++;
+        }
+    }public static void Llenar_arr_aba(int matriz[][], int num_inicial, int num_columna) {
+        for (int i = 0; i <= matriz.length -1; i++) {
+            matriz[i][num_columna]=num_inicial;
+            num_inicial++;
+        }
+    }
 }
 
 

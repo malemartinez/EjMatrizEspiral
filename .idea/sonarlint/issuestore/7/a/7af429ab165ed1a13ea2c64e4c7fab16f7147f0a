@@ -1,0 +1,62 @@
+
+M
+java:S1135"2Complete the task associated to this TODO comment.(í¯ôíýÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(½Ø¿çúÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(”žžü
+M
+java:S1135	"2Complete the task associated to this TODO comment.(­»Ø¹ýÿÿÿÿ
+G
+java:S1135
+"2Complete the task associated to this TODO comment.(®§® 
+G
+java:S1135"2Complete the task associated to this TODO comment.(Èž›
+M
+java:S1135"2Complete the task associated to this TODO comment.(Žãôèÿÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(ãï‰Ó8 ä‹ì/
+V	java:S125"<This block of commented-out lines of code should be removed.(ÅÑ•‡üÿÿÿÿ
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¤êÖüÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(âô†à
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ƒÏó›þÿÿÿÿ
+G
+java:S1197&",Move the array designators [][] to the type.(æÓ£æþÿÿÿÿ
+c	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Òº
+B
+java:S1197+",Move the array designators [][] to the type.(•Òº
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ãÔø”
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Ëÿ¾æ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(„–‘§úÿÿÿÿ
+h	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¨óüÿÿÿÿ
+G
+java:S11977",Move the array designators [][] to the type.(Á¨óüÿÿÿÿ
+h	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•³‰øÿÿÿÿ
+G
+java:S1197B",Move the array designators [][] to the type.(•³‰øÿÿÿÿ
+h	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Õôäøÿÿÿÿ
+G
+java:S1197N",Move the array designators [][] to the type.(…Õôäøÿÿÿÿ
+h	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡£è—úÿÿÿÿ
+G
+java:S1197Z",Move the array designators [][] to the type.(¡£è—úÿÿÿÿ
+h	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë†ú¼úÿÿÿÿ
+G
+java:S1197d",Move the array designators [][] to the type.(ë†ú¼úÿÿÿÿ
+h	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅíŸÕûÿÿÿÿ
+G
+java:S1197i",Move the array designators [][] to the type.(ÅíŸÕûÿÿÿÿ
+k	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¨óüÿÿÿÿ
+k	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¨óüÿÿÿÿ
+k	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•³‰øÿÿÿÿ
+k	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•³‰øÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Õôäøÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Õôäøÿÿÿÿ
+k	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡£è—úÿÿÿÿ
+k	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡£è—úÿÿÿÿ
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë†ú¼úÿÿÿÿ
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë†ú¼úÿÿÿÿ
+k	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅíŸÕûÿÿÿÿ
+k	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅíŸÕûÿÿÿÿ
+y
+java:S1488&"^Immediately return this expression instead of assigning it to the temporary variable "matriz".(æÓ£æþÿÿÿÿ
